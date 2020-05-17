@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>烟绚</title>
+  <link href="https://css.gg/css?=|git-branch|instagram|mail|website" rel="stylesheet">
+  <link rel="stylesheet" href="./index.css">
+  <style>
+    @font-face {
+      font-family: 'iconfont';  /* project id 1022578 */
+      src: url('//at.alicdn.com/t/font_1022578_ibsg58v261i.eot');
+      src: url('//at.alicdn.com/t/font_1022578_ibsg58v261i.eot?#iefix') format('embedded-opentype'),
+      url('//at.alicdn.com/t/font_1022578_ibsg58v261i.woff2') format('woff2'),
+      url('//at.alicdn.com/t/font_1022578_ibsg58v261i.woff') format('woff'),
+      url('//at.alicdn.com/t/font_1022578_ibsg58v261i.ttf') format('truetype'),
+      url('//at.alicdn.com/t/font_1022578_ibsg58v261i.svg#iconfont') format('svg');
+    }
+
+    :root {
+      --links: blue; /* Always applied */
+      --background-color: cadetblue;
+      --bright-color: #333;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --links: yellow; /* Only applied in dark mode (overrides previous declarations while applied) */
+        --background-color: #303030;
+        --bright-color: #fff;
+      }
+    }
+    html {
+      background-color: var(--background-color);
+      color: var(--bright-color);
+    }
+    .iconfont {
+      font-family: 'iconfont';
+      color: var(--bright-color);
+      font-size: .8rem;
+      padding: 0 10px;
+    }
+    #app {
+      margin: 0 auto;
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <!-- maybe intro -->
+    </header>
+    <main>
+      <!-- what is my interest -->
+    </main>
+    <footer class="flex justify_center">
+      <a href="javascript:;" alt="烟绚" title="烟绚"><i class="iconfont">&#xe602;</i></a>
+      <a href="https://www.instagram.com/hawtim/"><i class="iconfont">&#xe969;</i></a>
+      <a href="https://www.github.com/hawtim/"><i class="iconfont">&#xe6d5;</i></a>
+      <a href="mailto:hawtim_zhang@qq.com"><i class="iconfont">&#xe70b;</i></a>
+    </footer>
+  </div>
+  <script src="rem.js"></script>
+</body>
+</html>
