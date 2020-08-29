@@ -1,3 +1,7 @@
+## Simple page
+
+[本博客页面](https://hawtim.github.io/blog/)
+
 ## RoadMap
 
 1. 前端知识图谱
