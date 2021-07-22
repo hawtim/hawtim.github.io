@@ -1,4 +1,6 @@
 ## Simple page
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhawtim%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhawtim%2Fblog?ref=badge_shield)
+
 
 [本博客页面](https://hawtim.github.io/blog/)
 
@@ -15,3 +17,7 @@
 ### BTW
 
 如果 github 中的 issues 的图片无法打开，解决方案：[#10](https://github.com/hawtim/blog/issues/10)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhawtim%2Fblog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhawtim%2Fblog?ref=badge_large)
