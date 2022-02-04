@@ -1,18 +1,25 @@
 {
-  "name": "blog",
+  "name": "hawtim.github.io",
   "version": "1.0.0",
-  "description": "个人博客",
+  "description": "My blog",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hawtim/blog.git"
+    "url": "git+https://github.com/hawtim/hawtim.github.io.git"
   },
   "author": "hawtim",
   "license": "ISC",
   "issues": {
-    "url": "https://github.com/hawtim/blog/issues"
+    "url": "https://github.com/hawtim/hawtim.github.io/issues"
   },
-  "homepage": "https://github.com/hawtim/blog#readme"
+  "homepage": "https://github.com/hawtim/hawtim.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/hawtim/hawtim.github.io/issues"
+  },
+  "main": "dist/index.js",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
 }
