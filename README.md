@@ -2,7 +2,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhawtim%2Fblog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhawtim%2Fblog?ref=badge_shield)
 
 
-[本博客页面](https://hawtim.github.io/blog/)
+[本博客页面](https://hawtim.com)
 
 ## RoadMap
 
